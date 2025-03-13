@@ -1,0 +1,17 @@
+{
+    "data": [
+      {"category": "Game Development", "subcategory": "Python", "value": 80},
+      {"category": "Game Development", "subcategory": "Scratch", "value": 90},
+      {"category": "Game Development", "subcategory": "Unity", "value": 60},
+      {"category": "Cybersecurity", "subcategory": "Encryption", "value": 70},
+      {"category": "Cybersecurity", "subcategory": "Network Security", "value": 85},
+      {"category": "Cybersecurity", "subcategory": "Ethical Hacking", "value": 75},
+      {"category": "AI & ML", "subcategory": "Machine Learning", "value": 65},
+      {"category": "AI & ML", "subcategory": "Deep Learning", "value": 50},
+      {"category": "AI & ML", "subcategory": "NLP", "value": 55},
+      {"category": "Web Development", "subcategory": "HTML/CSS", "value": 95},
+      {"category": "Web Development", "subcategory": "JavaScript", "value": 85},
+      {"category": "Web Development", "subcategory": "React", "value": 75}
+    ]
+  }
+  
